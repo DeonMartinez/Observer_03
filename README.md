@@ -2,7 +2,7 @@
 
 Playable: https://deonmartinez.github.io/Observer_03/
 
-Referances: 
+References: 
 
 
 Cubethon- https://www.youtube.com/playlist?list=PLPV2KyIb3jR53Jce9hP7G5xC4O9AgnOuL
